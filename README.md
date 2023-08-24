@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nafis
+- 👋 Hi, I’m Ovi
 - 👀 I’m interested in android projects
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Startups
